@@ -1,0 +1,5 @@
+deb,challenge1,challenge2,challenge3,challenge4,challenge5,fin,id-robot,nom_robot,nom_club,temps_passe,score,dis
+1,1,0,1,0,1,1,robot-555,Robot Alpha,Club A,120,100,0
+0,0,1,0,1,1,0,robot-666,Robot Beta,Club B,150,200,0
+0,0,0,1,0,1,1,robot-777,Robot Gamma,Club C,180,300,0
+1,1,1,1,1,1,1,robot-999,Robot Delta,Club D,200,400,0

@@ -1,0 +1,6 @@
+ISTICROBOTS@ C:\Users\PC\Documents\ISTICROBOTS\ISTICROBOTS
+├── @influxdata/influxdb-client@1.35.0
+├── cors@2.8.5
+├── express@4.21.2
+└── nodemon@3.1.9
+
