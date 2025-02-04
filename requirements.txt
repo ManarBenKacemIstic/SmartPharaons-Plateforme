@@ -49,13 +49,13 @@ idna==3.10
 importlib_metadata==8.5.0
 importlib_resources==6.4.5
 influxdb-client==1.48.0
-Jinja2==3.1.4
+Jinja2==3.1.5
 joblib==1.2.0
 jsonpatch==1.33
 jsonpointer==3.0.0
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
-keras==3.6.0
+keras==3.8.0
 kubernetes==31.0.0
 langchain==0.3.10
 langchain-community==0.3.10
@@ -77,11 +77,11 @@ mypy-extensions==1.0.0
 namex==0.0.8
 narwhals==1.16.0
 networkx==3.4.2
-nltk==3.8.1
+nltk==3.9
 numpy==1.26.4
 oauthlib==3.2.2
 onnxruntime==1.20.1
-opencv-python==4.7.0.72
+opencv-python==4.8.1.78
 opentelemetry-api==1.28.2
 opentelemetry-exporter-otlp-proto-common==1.28.2
 opentelemetry-exporter-otlp-proto-grpc==1.28.2
@@ -150,7 +150,7 @@ tokenizers==0.21.0
 toml==0.10.2
 torch==2.5.1
 tornado==6.4.2
-tqdm==4.65.0
+tqdm==4.66.3
 transformers==4.47.0
 typer==0.15.1
 typing-inspect==0.9.0
@@ -162,7 +162,7 @@ watchdog==6.0.0
 watchfiles==1.0.0
 websocket-client==1.8.0
 websockets==14.1
-Werkzeug==3.0.4
+Werkzeug==3.0.6
 wrapt==1.16.0
 yarl==1.18.3
 zipp==3.21.0
